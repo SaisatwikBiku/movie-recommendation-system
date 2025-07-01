@@ -33,10 +33,11 @@ This project is a simple content-based movie recommendation system built using P
 2. Open and run the `movie_recommendation_system.ipynb` notebook.
 3. Use the `recommend('Movie Title')` function to get recommendations.
 
-Example:
+## Example
+
 ```python
 recommend('Iron Man')
-
+```
 
 ## Requirements
 
@@ -46,5 +47,7 @@ recommend('Iron Man')
 4. scikit-learn
 
 Install dependencies with:
+
 ```bash
 pip install pandas numpy scikit-learn
+```
