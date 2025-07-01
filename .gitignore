@@ -1,0 +1,7 @@
+# Python virtual environment folders
+venv/
+env/
+ENV/
+.venv/
+.python-version
+movies/
